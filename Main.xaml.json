@@ -1,0 +1,33 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "file_path",
+      "DisplayName": "file_path",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Users\\HP\\Downloads\\demo2.xlsx",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "bucket1",
+      "DisplayName": "bucket1",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "docs",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
